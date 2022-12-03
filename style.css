@@ -187,7 +187,7 @@ span{
 .click span:first-child{   
     transform: rotate(-40deg);
     }
-.click span:n-child(2){
+.click span:nth-child(2){
     display:none;
     margin:0;
     }
