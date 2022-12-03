@@ -82,7 +82,7 @@ nav .nav-list li:not(:last-child) a:hover{
     color:#7fe7dc;
     transition: .4s;
     }
-nav .nav-list li .btn a{
+nav .nav-list li.btn a{
     display: inline-block;
     background: transparent;
     border: 2px solid #7fe7dc;
@@ -92,7 +92,7 @@ nav .nav-list li .btn a{
     color: #7fe7dc;
     font-weight:500;
     }
-nav .nav-list li .btn:hover a{
+nav .nav-list li.btn:hover a{
     background: #7fe7dc;
     color: #316879;
     border: 2px solid transparent;
@@ -220,7 +220,7 @@ nav .nav-list li a{
     margin-left:0;
     margin-bottom: 40px;
     }
-nav .nav-list li .btn a{
+nav .nav-list li.btn a{
     position: absolute;
     bottom:0%;
     right:20%;
