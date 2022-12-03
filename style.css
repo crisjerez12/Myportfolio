@@ -185,14 +185,14 @@ span{
     margin-top: 12px;
     }
 .click span:first-child{   
-    transform: rotate(-45deg);
+    transform: rotate(-40deg);
     }
 .click span:n-child(2){
-    opacity:0;
+    display:none;
     margin:0;
     }
 .click span:last-child{
-    transform: rotate(45deg);
+    transform: rotate(40deg);
     top:0;
     }
   
