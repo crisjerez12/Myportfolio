@@ -173,7 +173,7 @@ span{
     letter-spacing: 2px;
     font-size: 15px;
     }
-.@media screen and (max-width :930px){
+@media screen and (max-width :930px){
     nav .hamb{
     display: initial;
     }
