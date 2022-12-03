@@ -106,7 +106,7 @@ nav .nav-list li.btn:hover a{
     }
 .container .hero-text h1{
     color: white;
-    font-size: 47px;
+    font-size: 40px;
     font-weight:900;
     line-height:1.2;
     margin: 20px 0 20px;
@@ -222,7 +222,6 @@ nav .nav-list li a{
     }
 nav .nav-list li.btn a{
     position: absolute;
-    bottom:0%;
     right:20%;
     left:20%;
     padding: 7px 15px;
