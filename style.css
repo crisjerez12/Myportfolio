@@ -185,7 +185,7 @@ span{
     margin-top: 12px;
     }
 .click span:first-child{   
-    transform: rotate(-45deg);
+    transform: rotate(-40deg);
     }
 .click span:n-child(2){
     opacity:0;
@@ -199,7 +199,7 @@ span{
 nav .nav-list{  
     position: absolute;
     top: 90px;
-    right:-65%;
+    right:-60%;
     bottom:0;
     width:60%;
     height:50%;
@@ -210,10 +210,10 @@ nav .nav-list{
     border-radius: 10px;
     }
 nav .nav-list li{   
-    display: black;
+    display: block;
     }
 nav .nav-list li a{
-    display: black;
+    display: block;
     text-align: center;
     font-size:18px;
     font-weight: 400;
