@@ -1,2 +1,1 @@
-# latenightcoding
-Late night coding
+//I created this in a whim
