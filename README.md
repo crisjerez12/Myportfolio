@@ -1,7 +1,1 @@
-This where I start when i just learnt CSS  
-   
-    
-     
-      
-   
- 
+This is where my journey began when I first unlocked the power of CSS, transforming plain text into vibrant, dynamic designs.
